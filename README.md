@@ -1,258 +1,147 @@
+<!--
+  ⚠️ Before using: replace every "YOUR_GITHUB_USERNAME" below with your actual
+  GitHub username so the stats/streak widgets and view counter work.
+-->
+
 <div align="center">
 
-# 👋 Hi, I'm Shubham Kshirsagar
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Shubham%20Kshirsagar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Java%20%26%20Python%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-### 💻 Computer Engineering Student | Java Developer | Python Programmer | AI/ML Enthusiast
+<a href="https://www.linkedin.com/in/shubham-kshirsagar-50230531a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/jicQ2BhK54/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:shubhamkshirasagar9786@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<p>
-  <a href="https://www.linkedin.com/in/shubham-kshirsagar-50230531a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/jicQ2BhK54/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:shubhamkshirasagar9786@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6a11cb&style=flat-square"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 🧭 About Me
 
-I'm a **Computer Engineering student from India** who is passionate about software development, problem solving, and Artificial Intelligence.
+I'm a **Computer Engineering student from India**, passionate about software development, problem solving, and Artificial Intelligence. I like turning ideas into working projects and steadily sharpening my engineering fundamentals.
 
-I enjoy building practical projects and continuously improving my programming and technical skills.
-
-* 🎓 Computer Engineering Student
-* 💻 Interested in **Software Development**
-* ☕ Learning and building with **Java**
-* 🐍 Working with **Python**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🗄️ Learning **DBMS & SQL**
-* 🌐 Exploring **Full Stack Development**
-* 🚀 Preparing for **Software Engineering opportunities**
-
----
-
-## 🛠️ Skills & Technologies
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-## 🚀 Current Focus
-
-```text
-Java                    ████████░░
-Python                  ███████░░░
-Data Structures         ███████░░░
-Algorithms              ██████░░░░
-DBMS & SQL              ███████░░░
-Artificial Intelligence █████░░░░░
-Machine Learning        ████░░░░░░
-Web Development         █████░░░░░
+```yaml
+role: Computer Engineering Student
+focus: Software Development, DSA, AI/ML
+languages: Java, Python, C, C++
+currently_learning: Full Stack Development, DBMS & SQL
+goal: Software Engineering Internship
 ```
 
-I'm currently focusing on:
+<br/>
 
-* 📚 Data Structures & Algorithms
-* ☕ Java Programming
-* 🐍 Python Programming
-* 🤖 AI & Machine Learning
-* 🗄️ DBMS & SQL
-* 🌐 Web Development
-* 💼 Technical Interview Preparation
+## 🛠️ Tech Stack
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+
+**Web**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td>
+<td valign="top" width="50%">
+
+**Databases**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+**AI / ML**
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square"/>
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 📌 Featured Projects
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
 ### 🚗 Vehicle Management System
+**Java · Swing · MySQL**
 
-**Java | Swing | MySQL**
+Desktop app to manage customers, vehicles, and service records with full CRUD, search, and status tracking.
 
-A desktop-based vehicle management application for managing customers, vehicles, and vehicle service records.
-
-**Features:**
-
-* Customer Management
-* Vehicle Management
-* Service Management
-* Search Functionality
-* Service Status Tracking
-* MySQL Database Integration
-* Java Swing GUI
-
----
+</td>
+<td width="33%" valign="top">
 
 ### 🤖 Technical Interview Coach
+**Python · Chatbot · AI**
 
-**Python | Chatbot | AI**
+Interactive chatbot that helps students prep for interviews across Java, Python, DSA, DBMS, OS, CN, and OOP.
 
-An interactive chatbot designed to help students prepare for technical interviews.
-
-**Topics:**
-
-* Java
-* Python
-* C/C++
-* Data Structures & Algorithms
-* DBMS & SQL
-* Computer Networks
-* Operating Systems
-* OOP
-* AI & Machine Learning
-
----
+</td>
+<td width="33%" valign="top">
 
 ### 🧠 DSA & Algorithm Practice
+**Java / Python**
 
-A collection of algorithm implementations and programming practice.
+Implementations of A*, Minimax, Alpha-Beta Pruning, Backtracking, N-Queens, and classic sorting/searching.
 
-**Topics:**
+</td>
+</tr>
+</table>
 
-* A* Algorithm
-* Minimax
-* Alpha-Beta Pruning
-* Backtracking
-* N-Queens
-* Searching
-* Sorting
-* Recursion
-* Problem Solving
+<br/>
 
----
+## 🎯 Currently Working Toward
 
-## 🧩 DSA Journey
+- [ ] Solve 200+ DSA problems
+- [ ] Build stronger Java & AI/ML projects
+- [ ] Master DBMS & SQL
+- [ ] Contribute to Open Source
+- [ ] Land a Software Engineering Internship
 
-I am continuously improving my problem-solving skills through coding practice and LeetCode.
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 👨‍💻 My LeetCode Profile
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=radical&hide_border=true&border_radius=10" height="165"/>
 
-<a href="https://leetcode.com/u/jicQ2BhK54/">
-  <img src="https://img.shields.io/badge/Visit%20My-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&border_radius=10" height="165"/>
 
 </div>
 
----
+<br/>
 
-## 🎯 My Goals
-
-* [ ] Solve 200+ DSA problems
-* [ ] Build strong Java projects
-* [ ] Build AI/ML projects
-* [ ] Improve Python skills
-* [ ] Master DBMS & SQL
-* [ ] Improve problem-solving skills
-* [ ] Contribute to Open Source
-* [ ] Build a strong GitHub portfolio
-* [ ] Prepare for technical interviews
-* [ ] Get a Software Engineering Internship
-
----
-
-## 📊 GitHub Statistics
+## 📫 Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+<a href="https://www.linkedin.com/in/shubham-kshirsagar-50230531a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/jicQ2BhK54/"><img src="https://img.shields.io/badge/LeetCode-jicQ2BhK54-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:shubhamkshirasagar9786@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shubham-kshirsagar-50230531a/">
-<img src="https://img.shields.io/badge/LinkedIn-Shubham%20Kshirsagar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="https://leetcode.com/u/jicQ2BhK54/">
-<img src="https://img.shields.io/badge/LeetCode-jicQ2BhK54-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<br><br>
-
-<a href="mailto:shubhamkshirasagar9786@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-shubhamkshirasagar9786%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Learn. Build. Solve. Repeat. 🚀
+<br/><br/>
 
 *"First, solve the problem. Then, write the code."*
 
